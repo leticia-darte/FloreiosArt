@@ -81,7 +81,7 @@ button, input {
   align-items: center; 
   gap: 36px; 
   padding: 0 max(28px, calc((100% - 1220px) / 2)); 
-  background: #fff0e9; 
+  background: #ffd5e7; 
   font-size: 12px; 
 }
 .main-nav a { 
@@ -460,7 +460,8 @@ h1, h2, h3 {
 }
 
 .benefits { 
-  display: grid; 
+  display: flex; 
+  justify-content: center;
   grid-template-columns: repeat(4,1fr); 
   align-items: center; 
   gap: 22px; 
