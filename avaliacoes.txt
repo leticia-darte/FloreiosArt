@@ -1,0 +1,33 @@
+ </div><a class="button button-white" href="#depoimentos">Ler o que dizem por aí</a>
+
+ <section class="testimonials section-shell" id="depoimentos">
+      <div class="section-heading centered"><span class="eyebrow pink">Recados de quem comprou</span>
+        <h2>Leituras e pequenos cuidados</h2>
+        <p>Algumas palavras de quem já recebeu um pedido da Floreios em casa.</p>
+      </div>
+      <div class="testimonial-grid">
+        <article class="quote-card">
+          <div class="stars">Nota 5 de 5</div>
+          <p>“Meu pedido chegou bem embalado e os marcadores são ainda mais bonitos de perto. Já estou usando o de
+            Orgulho &amp; Preconceito na minha leitura atual.”</p>
+          <div class="reviewer"><img
+              src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=120&q=80"
+              alt=""><span><strong>Beatriz M.</strong><small>Curitiba, PR</small></span></div>
+        </article>
+        <article class="quote-card">
+          <div class="stars">Nota 5 de 5</div>
+          <p>“Gostei muito do papel do caderno. Escrevo com caneta tinteiro e não manchou o outro lado. A costura também
+            ficou linda.”</p>
+          <div class="reviewer"><img
+              src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=120&q=80"
+              alt=""><span><strong>Mariana S.</strong><small>São Paulo, SP</small></span></div>
+        </article>
+        <article class="quote-card">
+          <div class="stars">Nota 5 de 5</div>
+          <p>“Comprei o box para presentear uma amiga que também ama Jane Austen. Ela adorou a caneca e a caderneta. Foi
+            um presente muito especial.”</p>
+          <div class="reviewer"><img
+              src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=120&q=80"
+              alt=""><span><strong>Júlia F.</strong><small>Belo Horizonte, MG</small></span></div>
+        </article>
+      </div>
